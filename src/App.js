@@ -39,7 +39,7 @@ function App() {
       <Navbar title="𝕋𝕖𝕩𝕥ℂ𝕦𝕣𝕖" aboutText="About" mode={mode} toggleMode={toggleMode} />
       <Alert alert={alert} />
       <div className="container my-3">
-        <TextForm heading="Try TextProp" mode={mode} showAlert={showAlert} />
+        <TextForm heading="Try TextCure" mode={mode} showAlert={showAlert} />
       </div>
     </>
   );
